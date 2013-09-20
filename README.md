@@ -1,4 +1,4 @@
-Nyan ![travis-ci](https://secure.travis-ci.org/textgoeshere/nyan.png)
+Nyan ![travis-ci](https://secure.travis-ci.org/textgoeshere/nyan.png) [![Code Climate](https://codeclimate.com/github/textgoeshere/nyan.png)](https://codeclimate.com/github/textgoeshere/nyan)
 ==================
 
 Your favourite aging meme is reheated as an RSpec custom formatter.
